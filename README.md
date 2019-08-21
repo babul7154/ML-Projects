@@ -1,2 +1,2 @@
-# djangoprojects
+# Machine Learning
 created by me
